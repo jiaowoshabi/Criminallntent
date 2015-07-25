@@ -13,8 +13,8 @@ public class CrimeListActivity extends SingleFragmentActivity {
 	}
 	public void onCreate(Bundle savedInstanceState){
 		super.onCreate(savedInstanceState);
-		Parse.initialize(this, "5VqBejL5Ha91q7XjGxlHggk44AdnVUYx8OCykrxm", "zWGqX5FpnbOZCphCkvScAQfOtLHWqH3gtRlfKmJp");
-		ParseInstallation.getCurrentInstallation().saveInBackground();
+		//Parse.initialize(this, "5VqBejL5Ha91q7XjGxlHggk44AdnVUYx8OCykrxm", "zWGqX5FpnbOZCphCkvScAQfOtLHWqH3gtRlfKmJp");
+		//ParseInstallation.getCurrentInstallation().saveInBackground();
 
 
 	}
