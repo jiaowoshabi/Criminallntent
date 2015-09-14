@@ -47,7 +47,7 @@ public class CrimePagerActivity extends FragmentActivity {
 				}
 				
 			}
-			
+			//
 			@Override
 			public void onPageScrolled(int pos, float posOffset, int posOffsetPixels) {
 				// TODO Auto-generated method stub
